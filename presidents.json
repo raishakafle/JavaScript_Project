@@ -1,0 +1,67 @@
+{
+    "actors": [
+      {
+        "fname": "John",
+        "lname": "Macdonald",
+        "gender": "Male",
+        "city": "Windsor",
+        "birthday": "1985-01-28"    
+      },
+      {
+        "fname": "Alexander",
+        "lname": "Mackenzie",
+        "gender": "Male",
+        "city": "Kingston",
+        "birthday": "1972-10-17"
+      },
+      {
+        "fname": "John",
+        "lname": "Abbott",
+        "gender": "Male",
+        "city": "Victoria",
+        "birthday": "1987-01-18"
+      },
+      {
+        "fname": "John",
+        "lname": "Thompson",
+        "gender": "Male",
+        "city": "Toronto",
+        "birthday": "1986-12-11"
+      },
+      {
+        "fname": "Mackenzie",
+        "lname": "Bowell",
+        "gender": "Male",
+        "city": "Antigonish",
+        "birthday": "1982-01-28"
+      },
+      {
+        "fname": "Louis St.",
+        "lname": "Laurent",
+        "gender": "Male",
+        "city": "London",
+        "birthday": "1991-1-21"
+      },
+      {
+        "fname": "Robert",
+        "lname": "Borden",
+        "gender": "Male",
+        "city": "Halifax",
+        "birthday": "1992-07-18"
+      },
+      {
+        "fname": "Arthur",
+        "lname": "Meighen",
+        "gender": "Male",
+        "city": "Prairie",
+        "birthday": "1969-03-18"
+      },
+      {
+        "fname": "R.B",
+        "lname": "Benett",
+        "gender": "Male",
+        "city": "Calgary",
+        "birthday": "1997-04-02"
+      }
+    ]
+  }
